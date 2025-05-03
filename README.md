@@ -3,7 +3,7 @@
 A clean, modern day planner web app built with **pure HTML, CSS, and JavaScript** — no libraries, no frameworks. Users can **add tasks**, set **reminder times**, receive **browser alerts**, and switch between **light and dark modes**.
 
 ![Screenshot Light_mode](light.png) <!-- Optional: Add screenshot -->
-![Screenshot Dark_mode](Dark.png)
+![Screenshot Dark_mode](dark.png)
 
 ---
 
