@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Day Planner</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🗓️ Day Planner</h1>
+
+    <div class="form-group">
+      <input type="time" id="task-time" />
+      <input type="text" id="task-desc" placeholder="Enter your task..." />
+      <button id="add-task">Add Task</button>
+    </div>
+
+    <div class="controls">
+      <button id="clear-all">Clear All</button>
+      <button id="toggle-mode">Dark Mode</button>
+    </div>
+
+    <ul id="task-list"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
